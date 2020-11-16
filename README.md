@@ -1,5 +1,8 @@
 # NumberPickerAdapter
 An adapter class that shows a list of selectable strings in an android recyclerview
+![alt text][testGif]
+
+[testGif]: https://github.com/EricGachoka/NumberPickerAdapter/blob/main/number_picker_test.gif "Number Picker Testing"
 
 Add maven { url 'https://jitpack.io' } to your project's build.gradle file
 ```groovy
