@@ -1,0 +1,3 @@
+include ':NumberPicker'
+include ':app'
+rootProject.name = "NumberPickerWidget"
