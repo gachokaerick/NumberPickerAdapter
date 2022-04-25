@@ -16,7 +16,7 @@ allprojects {
 Add the number picker dependency in app level build.gradle file
 ```groovy
 dependencies {
-    implementation 'com.github.EricGachoka:NumberPickerAdapter:1.0.0'
+    implementation 'com.github.gachokaerick:NumberPickerAdapter:1.0.0'
 }
 ```
 
